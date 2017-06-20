@@ -1,0 +1,263 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.event-start .event-start, #menu-bar ul.nice-menu a.active, #menu-bar ul.nice-menu a:hover, #menu-bar ul.nice-menu .menuparent.over > a, #menu-bar ul.nice-menu .menuparent a:hover, #menu-bar ul.nice-menu .menuparent a.active, #footer, #menu-bar ul.nice-menu ul {
+    background-color: #fff;
+}
+.block .band.slate {
+    background-color: inherit!important;
+    color: inherit!important;
+}
+.front .node-person img {
+    border: 4px solid #ccc;
+    border-radius: 50%;
+}
+.paralax {
+    background-image: url(https://hwpi.harvard.edu/files/content-strategy/files/090913_ethics_class_082_278853.jpg?m=1496170158);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: multiply!important;
+    color: #fff;
+    background-color: #666!important;
+background-attachment:fixed;
+}
+.paralax2 {
+    background-image: url(https://hwpi.harvard.edu/files/content-strategy/files/040913_feature_004_265279.jpg?m=1496170617)!important;
+    background-repeat: no-repeat!important;
+    background-position: center!important;
+    background-size: cover!important;
+    background-blend-mode: multiply!important;
+    color: #fff;
+    background-color: #666!important;
+background-attachment:fixed;
+}
+.paralax a,
+.paralax2 a{
+color:#fff!important;
+}
+.band h2.block-title {
+    font-weight: 300;
+    margin-bottom: 35px;
+}
+.shade{
+    background-color: #bac5c6;
+}
+.slate a {
+    color: #fff!important;
+}
+.front #content-column .block.block-boxes-os_boxes_manual_list.styled {
+    background: #fff;
+    border: 0;
+    padding: 0;
+}
+.front #content-column .block.block-boxes-os_boxes_manual_list.styled h2.block-title {
+    border-bottom: 0;
+}
+.ui-tabs-panel {
+    background-color: #fff!important;
+    padding: 25px!important;
+}
+.band .block-inner .block-inner {
+    width: inherit;
+}
+.block-boxes-os_boxes_tabs .slate {
+    background-color: #fff!important;
+    color: #000;
+}
+.band {
+    padding-top: 40px!important;
+    padding-bottom: 40px!important;
+}
+.band.parch{
+    background-color: #f3f3f1;
+}
+.slate {
+    background-color: #8996A0!important;
+    color: #fff;
+}
+.band .block-inner {
+    width: 980px;
+    margin: 0 auto!important;
+}
+.front #columns {
+    width: 100%!important;
+}
+.front .region-content-top h2.block-title {
+    color: #fff;
+    text-transform: uppercase;
+    font-family: montserrat, sans-serif;
+}
+.front h2.block-title {
+    text-transform: uppercase;
+    font-family: montserrat, sans-serif;
+    font-size: 26px;
+}
+.front .block .block h2.block-title {
+    text-align: left;
+    text-transform: initial;
+    font-weight: normal;
+    letter-spacing: 0;
+ font-size: 20px;
+}
+.front .region-content-top {
+    background-color: #ccc;
+    display: block;
+    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/16/2a/e9/162ae92563a42aef0bec055cf36944db.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+.region.region-content-first .region-inner .region-inner,
+.region.region-content-second.region-inner .region-inner,
+.region.region-content-bottom .region-inner .region-inner,
+.region.region-content-top .region-inner .region-inner {
+    width: 100%;
+}
+
+.front .content-left.content-bottom #content-panels .region-content-first, 
+.front .content-left.content-bottom #content-panels .region-content-bottom, 
+.front .content-left.content-right #content-panels .region-content-first, 
+.front .content-left.content-right #content-panels .region-content-second, 
+.front .content-right.content-bottom #content-panels .region-content-second, 
+.front .content-right.content-bottom #content-panels .region-content-bottom {
+    width: 100%;
+}
+body {
+    font-size: 17px;
+    line-height: 30px;
+}
+.front h2.block-title {
+    text-align: center;
+}
+.front .block -boxes .block-boxes h2.block-title {
+    text-align: left;
+}
+.front .region-content-top,
+.front .region-content-bottom{
+padding-top:40px;
+padding-bottom:40px;
+}
+.front .region-content-first{
+padding-bottom:0px;
+}
+.front .region-content-top .block-boxes-os_boxes_html,
+.front .region-content-second .block-boxes-os_boxes_html {
+    width: 768px;
+    margin: 0 auto;
+}
+
+.front #content-column .block, .front .node-person .block-inner, .front .comment-wrapper {
+    border-top: 0;
+}
+.front #content-panels .block {
+    margin-bottom: 0;
+}
+.front .content-left.content-right.content-bottom .region-content-first .region-inner, .front .content-left.content-right.content-bottom .region-content-second .region-inner, .front .content-left.content-right .region-content-first .region-inner, .front .content-left.content-bottom .region-content-first .region-inner, .front .content-right.content-bottom .region-content-second .region-inner {
+    padding-right: 0;
+}
+
+.front .content-left.content-right .region-content-first .region-inner, .front .content-left.content-bottom .region-content-first .region-inner, .front .content-right.content-bottom .region-content-second .region-inner, .front .content-left.content-right.content-bottom .region-content-second .region-inner {
+    border-right: 0;
+}
+.front ul.menu {
+    margin-left: 0;
+}
+.front .region-content-top {
+    background-color: #ccc;
+    display: block;
+}
+.front .content-left.content-right.content-bottom #content-panels .region-content-first, .front .content-left.content-right.content-bottom #content-panels .region-content-second, .front .content-left.content-right.content-bottom #content-panels .region-content-bottom {
+    width: 100%;
+}
+.front #columns {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.region-header-third ul.nice-menu a {
+    font: bold 13px Montserrat,sans-serif;
+    color: #666!important;
+    font-weight: normal;
+}
+#menu-bar ul.nice-menu a {
+    font-family: Montserrat!important;
+    font-weight: 300;
+}
+#boxes-box-site_info, #boxes-box-site_info a {
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+}
+div#menu-bar {
+    border-bottom: 1px solid #ccc;
+}
+#header {
+    background-color: #f4f4f4;
+}
+.branding-container, #header-container, .front #columns, #menu-bar nav, #menu-bar #block-os-primary-menu, #footer .gpanel, .region-footer, .message-inner, #powerby-login {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1170px;
+}
+div#header-panels {
+    width: 1170px;
+    margin: 0 auto;
+}
+nav#block-os-primary-menu {
+    width: 1170px!important;
+    margin: 0 auto!important;
+}
+.front .region.region-content-top .region-inner,
+.front .region.region-content-first .region-inner,
+.front .region.region-content-second .region-inner,
+.front .region.region-content-bottom .region-inner    {
+    width: 100%;
+    margin: 0 auto;
+}
+.branding-container, #header-container, #columns, #menu-bar nav, #menu-bar #block-os-primary-menu, #footer .gpanel, .region-footer, .message-inner, #powerby-login {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1170px;
+}
+@media (max-width: 1200px){
+.branding-container, #header-container, .front #columns, #menu-bar nav, #menu-bar #block-os-primary-menu, #footer .gpanel, .region-footer, .message-inner, #powerby-login {
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+}
+.front .region.region-content-top .region-inner, 
+.front .region.region-content-first .region-inner, 
+.front .region.region-content-second .region-inner, 
+.front .region.region-content-bottom .region-inner {
+    width: 100%;
+    margin: 0 auto;
+}
+.region.region-content-first .region-inner,
+.region.region-content-second .region-inner,
+.region.region-content-third .region-inner,
+.region.region-content-top .region-inner {
+    width: 100%!important;
+}
+.region.region-content-top .region-inner {
+    width: 980px;
+    margin: 0 auto;
+}
+.branding-container, #header-container, #columns, #menu-bar nav, #menu-bar #block-os-primary-menu, #footer .gpanel, .region-footer, .message-inner, #powerby-login {
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+}
+div#header-panels {
+    width: initial;
+}
+nav#block-os-primary-menu {
+    width: 100%!important;
+    margin: 0 auto!important;
+}
+}
+@media (max-width:1008px){
+.front .region.region-content-top .region-inner {
+    width: 100%;
+    margin: 0 auto;
+}
+}
